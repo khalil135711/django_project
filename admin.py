@@ -1,3 +1,3 @@
 from django.contrib import admin
-
-# Register your models here.
+from livre.models import newLesen
+admin.site.register(newLesen)
