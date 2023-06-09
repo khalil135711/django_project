@@ -24,5 +24,4 @@ Meine Leidenschaft gilt der Entwicklung von robusten und skalierbaren Webanwendu
 ![WhatsApp Image 2023-06-09 at 2 33 19 PM](https://github.com/khalil135711/django_project/assets/89642249/5253408e-0a33-4291-8b42-f7199d7f7cfc)
 ![WhatsApp Image 2023-06-09 at 2 33 18 PM (3)](https://github.com/khalil135711/django_project/assets/89642249/b66372a8-45de-40fa-b3b6-c9c23a70b7c4)
 ![WhatsApp Image 2023-06-09 at 2 33 18 PM (2)](https://github.com/khalil135711/django_project/assets/89642249/f7bb33a9-2091-4c34-b55b-f7ac2bec94b0)
-![WhatsApp Image 2023-06-09 at 2 33 18 PM (1)](https://github.com/khalil135711/django_project/assets/89642249/55688d25-3d44-4ebe-848d-576c34a1229a)
 ![WhatsApp Image 2023-06-09 at 2 33 18 PM](https://github.com/khalil135711/django_project/assets/89642249/5197a246-a642-46ec-8dd6-db387701b9ec)
